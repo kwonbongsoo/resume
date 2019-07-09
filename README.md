@@ -13,7 +13,7 @@
   </div>
   
   <div>
-   <span>서비스</span>
+   <div style="font-weight: bold;">서비스</div>
    <img src="./service/service1.png" width="300"/>
    <img src="./service/service2.png" width="300"/>
   </div>
