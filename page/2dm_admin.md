@@ -4,6 +4,6 @@
   <img src="../admin/admin2.PNG" />
  </div>
  <div>
- <img src="../admin/admin1.PNG" />
- <img src="../admin/admin3.PNG" />
+  <img src="../admin/admin1.PNG" />
+  <img src="../admin/admin3.PNG" />
  </div>
