@@ -4,10 +4,9 @@
 
 - **투디엠 (프론트앤드)** 1년 3개월 2018.01.02 ~ 2019.04.28
   * 관리자
-  * 서비스 모바일용 웹
-```
+   <img src="./admin/admin2.PNG" width="100%"/>
+   <img src="./admin/admin1.PNG" width="300"/> <img src="./admin/admin3.PNG" width="300"/>
 
-```
 
 
 
