@@ -1,4 +1,4 @@
-### 투디엠 관리자 화면
+# 투디엠 관리자 화면
 
 <div>
   <img src="../admin/admin2.PNG" />
