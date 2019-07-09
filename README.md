@@ -12,8 +12,8 @@
   * 서비스
   ------------------------
   <div>
-   <img src="./service/service1.PNG" width="300"/>
-   <img src="./service/service2.PNG" width="300"/>
+   <img src="./service/service1.png" width="300"/>
+   <img src="./service/service2.png" width="300"/>
   </div>
 
 - **머스트잇 (프론트앤드)** 2019.04.29 ~ ING
