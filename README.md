@@ -2,10 +2,10 @@
 **현재 2019-07월 기준 1년 7개월 차**
 
 - **비트캠프 프로젝트**
-   * [[BOMBEE]](https://github.com/kwonbongsoo/BOMBEE)
+   * [[BOMBEE] 기술 스택 / 설명 ](https://github.com/kwonbongsoo/BOMBEE)
 - **투디엠 (프론트앤드)** 1년 4개월 2018.01.02 ~ 2019.04.28
-  * [[관리자]](./page/2dm_admin.md)<br>
-  * [[서비스]](./page/2dm_service.md)<br>
+  * [[관리자] 기술 스택 / 설명 ](./page/2dm_admin.md)<br>
+  * [[서비스] 기술 스택 / 설명 ](./page/2dm_service.md)<br>
 
 - **머스트잇 (프론트앤드)** 2019.04.29 ~ ING
   * 관리자(준비중)
