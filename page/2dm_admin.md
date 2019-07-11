@@ -19,6 +19,8 @@
 ```
 ### 사용한 기술
 ```
+db : mysql
+build : webpack
 front end : vue js, jquery, echart, jqeury
-back end : php ( codeigniter ), aws s3, mysql ( aurora ) 
+back end : php ( codeigniter )
 ```
