@@ -24,6 +24,8 @@
 ### 사용한 기술
 
 ```
+db : mysql
+build : webpack
 front-end : vue js, lazy-load, pwa, socket io client
-back-end : php ( codeigniter ), mysql ( aurora )
+back-end : php ( codeigniter )
 ```
