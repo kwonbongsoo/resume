@@ -11,3 +11,14 @@
   <img src="../admin/admin1.PNG" />
   <img src="../admin/admin3.PNG" />
  </div>
+
+### 진행한 프로젝트
+```
+1. 가맹점 매출 조회용 관리자
+2. 본사 / 본부 관리자
+```
+### 사용한 기술
+```
+front end : vue js, jquery, echart, jqeury
+back end : php ( codeigniter ), aws s3, mysql ( aurora ) 
+```
